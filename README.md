@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DO NOT.
 - 😄 Pronouns: ...
 -->
-[![DPP-Core](https://github.com/darksoldier1404/inv_captive/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/inv_captive/actions/workflows/gradle.yml)
+[![inv-captive](https://github.com/darksoldier1404/inv-captive/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/inv-captive/actions/workflows/gradle.yml)
