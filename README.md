@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 [![LICKER2689's github stats](https://github-readme-stats.vercel.app/api?username=LICKER2689&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![LICKER2689's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LICKER2689&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/)
