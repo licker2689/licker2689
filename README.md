@@ -4,6 +4,14 @@
 - 📫 How to reach me: DO NOT, if you want reach me, repeat acting at DPNW
 - 😄 Pronouns: ...
 
+kor
+--
+
+저는 아직 학생이고 사회와 자바, 코틀린을 배우는 중입니다
+
+만약 저에게 무언가 질문하고 싶으시다면 제가 프로그래밍에 대해서 모든것을 알고있다고 생각하지 말아주시기 바랍니다
+
+만약 저와 함께하고 싶으시면 그러지 마시고 DPNW 에서 활동하세요
 
 [![inv-captive](https://github.com/licker2689/inv-captive/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/licker2689/inv-captive/actions/workflows/gradle.yml)
 
