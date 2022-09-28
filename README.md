@@ -19,6 +19,8 @@ kor
 
 dpnw에서 활동하고 있으므로, 저에게 한수 가르침을 내려주시려면 거기서 멘션하고 말씀해주세요, 그리고 가급적이면 구글링도 잘 해주시면 감사하겠습니다.
 
+개발 지향점: 한눈에 들어오고 이해가 빠르며 최적화된 프로그래밍을 지향합니다. 절차적으로 보자면 한눈에 들어오는 프로그래밍-> 최적화 이기 때문에 최적화가 부족할수 있습니다. 저는 제 코딩 결과물을 보고 배울수 있는 코더가 되고 싶기 때문에, 항상 개발자 지향적이지, 유저지향적이지 않을수 있습니다.
+
 [![inv-captive](https://github.com/licker2689/inv-captive/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/licker2689/inv-captive/actions/workflows/gradle.yml)
 
 [![LICKER2689's github stats](https://github-readme-stats.vercel.app/api?username=LICKER2689&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
