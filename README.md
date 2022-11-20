@@ -1,6 +1,6 @@
 
 - 🌱 I’m currently learning social, JAVA, Kotlin
-- 💬 IF you want ask me about someting, you must be remeber I can code or programming a little
+- 💬 IF you want ask me about someting, you must be remeber I can only programming little
 - 📫 How to reach me: DO NOT, if you want reach me, repeat acting at DPNW
 - 😄 Pronouns: ...
 
