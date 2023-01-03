@@ -26,4 +26,7 @@ dpnw에서 활동하고 있으므로, 저에게 한수 가르침을 내려주시
 [![LICKER2689's github stats](https://github-readme-stats.vercel.app/api?username=LICKER2689&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![LICKER2689's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LICKER2689&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-MY FAVORITE DISCORD SEVER : DPNW [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/RWGs9SxQ9T)
+MY FAVORITE DISCORD SEVER : DPNW
+
+<a href="https://discord.gg/wKEDry6nHz" target="_blank"><img src="https://discordapp.com/api/guilds/740288168716140605/widget.png?style=banner4"/></a>
+
